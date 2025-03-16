@@ -1,0 +1,10 @@
+{
+  "name": "Amit Zala",
+  "label": "Optional Label",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "amitzala@live.com",
+    "phone": "9998971998",
+    "location": "Gandhinagar, Gujarat, India"
+  }
+}
