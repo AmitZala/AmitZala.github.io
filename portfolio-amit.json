@@ -6,5 +6,87 @@
     "email": "amitzala@live.com",
     "phone": "9998971998",
     "location": "Gandhinagar, Gujarat, India"
-  }
+  },
+  "summary": "I 'm Amit Zala, a passionate data science enthusiast. I have a foundation in machine learning, deep learning, and data analysis. I have worked on various projects in the field of data science and machine learning. I am always eager to learn new things and explore new technologies.",
+  "url": "https://amitzala.github.io",
+  "social_links": [ 
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/@AmitZala93",
+      "svg_path": "img/twitter.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/AmitZala",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amit-zala-7b0b3b1a2/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Email",
+      "url": "amitzala@live.com",
+      "svg_path": "img/email.svg"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Educational Content Creator on YouTube",
+      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
+      "url": "https://youtube.com/c/coreyms",
+      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Main Channel"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "Tutorials"
+        },
+        {
+          "img_path": "portfolio_media/yt3.png",
+          "caption": "Live Streams"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Marshall University",
+      "location": "Hungington, WV, USA",
+      "url": "https://marshall.edu",
+      "degrees": [
+        "Bachelor of Science in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "honors": [
+        "2010 Outstanding Student Award",
+        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
+        "Placed in a District ACM ICPC Team Programming Contest"
+      ],
+      "gpa_cumulative": "3.29",
+      "gpa_major": "3.93",
+      "graduation_date": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask, Django",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ]
 }
