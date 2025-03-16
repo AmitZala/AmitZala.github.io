@@ -33,48 +33,82 @@
   ],
   "projects": [
     {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "title": "My First Project",
+      "summary": "Short summary about my first project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project One",
+        "Second Highlight of Project One",
+        "Third Highlight of Project One"
+      ],
       "images": [
         {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
+          "img_path": "https://picsum.photos/600/338?random=1",
+          "caption": "Image Caption 1"
         },
         {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Image Caption 2"
         },
         {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "My Second Project",
+      "summary": "Short summary about my second project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=5",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=6",
+          "caption": "Image Caption 6"
         }
       ]
     }
   ],
   "education": [
     {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
+      "institution": "Institution One",
+      "location": "Institution One Location",
+      "url": "https://sample.com",
       "degrees": [
-        "Bachelor of Science in Computer Science",
+        "Master of Science in Computer Science",
         "Minor in Mathematics"
       ],
-      "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
-      ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
+      "honors": ["Outstanding Student Award", "Dean's List"],
+      "gpa_cumulative": "3.5",
+      "gpa_major": "4.0",
+      "graduation_date": "01/01/2005"
+    },
+    {
+      "institution": "Institution Two",
+      "location": "Institution Two Location",
+      "url": "https://sample.com",
+      "degrees": ["Bachelor of Science in Physics"],
+      "honors": ["Scholarship Recipient"],
+      "gpa_cumulative": "3.2",
+      "gpa_major": "3.9",
+      "graduation_date": "01/01/2000"
     }
   ],
   "skills": [
     {
-      "name": "Python, Flask, Django",
+      "name": "Python, Pytorch, Scikit-learn, Keras, Flask, Pandas, Numpy",
       "proficiency": 100,
       "proficiency_label": "Expert"
     },
