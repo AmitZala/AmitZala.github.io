@@ -162,6 +162,9 @@ section {
   border-radius: 50%;
   object-fit: cover;
   border: 1px solid #999;
+  /* Add the following properties to ensure the image fits well */
+  height: auto;
+  overflow: hidden;
 }
 
 .header-info ul {
